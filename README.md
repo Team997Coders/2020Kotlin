@@ -1,2 +1,2 @@
-# 2020InfiniteRecharge
-Team 997's, Spartan Robotics, repository for the 2020 FRC game, Infinite Recharge
+# 2020 Kotlin Robot Repo
+997 Spartan Robotics' kotlin repository for our 2020 FRC robot
